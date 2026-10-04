@@ -15,5 +15,5 @@ public static void main(String[] args) {
 		    health = "Obese";
 		}
 		
-		System.out.println("Your healt is: " + health);
+		System.out.println("Your health is: " + health);
 	}
